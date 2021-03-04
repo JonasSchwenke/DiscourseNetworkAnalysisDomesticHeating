@@ -1,5 +1,5 @@
 # Discourse Network Analysis of Domestic Heating in Germany
-This is the repository for my master thesis, written at Universität Konstanz for the Frauenhofer ISI.
+This is the repository for my master thesis, written at Universität Konstanz for the Fraunhofer ISI.
 
 ## Code/
 
